@@ -2,7 +2,7 @@
 
 A CLI-based reverse image search engine. Given a query image (or even
 a plain text description), it returns the most visually/semantically
-similar images from an indexed dataset — built on top of pretrained
+similar images from an indexed dataset built on top of pretrained
 CLIP embeddings and a FAISS vector index.
 
 ## Features
